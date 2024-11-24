@@ -10,8 +10,6 @@ config.cursor_blink_rate = 500
 config.font_size = 24
 config.font = wezterm.font("Iosevka Custom Semibold Italic")
 
-config.color_scheme = "Cloud (terminal.sexy)"
-
 config.colors = {
   background = "#0c0b0f", -- dark purple
 
